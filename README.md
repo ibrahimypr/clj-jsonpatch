@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # clj-jsonpatch
 
 [![Clojure](https://img.shields.io/badge/Clojure-1.11+-green.svg)](https://clojure.org/)
@@ -58,7 +59,7 @@ cd clj-jsonpatch
 
 All patch operations follow RFC 6902 specification.
 
-#### `apply-patch`
+#### `apply-patch`z
 Apply a sequence of patch operations to a document.
 
 ```clojure
@@ -209,3 +210,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+=======
+# clj-jsonpatch
+>>>>>>> 3c4f25d441de88d33df4d13b3f1dc55af69f989b
