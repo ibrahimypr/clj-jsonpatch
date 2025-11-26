@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # clj-jsonpatch
 
 [![Clojure](https://img.shields.io/badge/Clojure-1.11+-green.svg)](https://clojure.org/)
@@ -212,4 +212,3 @@ MIT License - see [LICENSE](LICENSE) for details.
 Contributions are welcome! Please feel free to submit a Pull Request.
 =======
 # clj-jsonpatch
->>>>>>> 3c4f25d441de88d33df4d13b3f1dc55af69f989b
