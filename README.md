@@ -21,7 +21,7 @@ A pure, zero-dependency, RFC-compliant implementation of **JSON Pointer** ([RFC 
 ### deps.edn (after first release)
 
 ```clojure
-{:deps {io.github.ibrahimypr/clj-jsonpatch {:git/tag "v0.1.0" :git/sha "SHORT_SHA"}}}
+{:deps {io.github.ibrahimypr/clj-jsonpatch {:git/sha "292f356"}}}
 ```
 
 ### Local Installation
